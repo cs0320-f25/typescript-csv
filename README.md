@@ -12,12 +12,21 @@
 
     Include your notes from above: what were your initial ideas, what did the LLM suggest, and how did the results differ by prompt? What resonated with you, and what didn’t? (3-5 sentences.) 
 
-### 1340 Supplement
+### Design Choices
 
-### Reflection
+### 1340 Supplement
 
 - #### 1. Correctness
 
 - #### 2. Random, On-Demand Generation
 
 - #### 3. Overall experience, Bugs encountered and resolved
+#### Errors/Bugs:
+#### Tests:
+#### How To…
+
+#### Team members and contributions (include cs logins):
+
+#### Collaborators (cslogins of anyone you worked with on this project and/or generative AI):
+#### Total estimated time it took to complete project:
+#### Link to GitHub Repo:  
