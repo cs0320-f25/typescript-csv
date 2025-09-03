@@ -1,15 +1,15 @@
 {
-  "name": "ts-parser",
+  "name": "cs32-f25-csv-starter",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "run": "npx ts-node ./src/run-parser.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zod": "^3.25.67"
+    "zod": "^4.1.5"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
@@ -23,5 +23,5 @@
   "directories": {
     "test": "tests"
   },
-  "description": ""
+  "description": "Starter code for CSCI 0320's sprint 1 in Fall 2025"
 }
